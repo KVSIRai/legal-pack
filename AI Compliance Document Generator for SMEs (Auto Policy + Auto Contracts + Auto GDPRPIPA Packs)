@@ -1,0 +1,161 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>2026 E-Commerce Legal Compliance Pack (GDPR + CCPA + India DPDP)</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; padding:0; background:#f6f8fb; color:#111;}
+    header {background:#0a1f44; color:white; padding:50px 20px; text-align:center;}
+    header h1 {margin:0; font-size:32px;}
+    header p {font-size:18px; margin-top:10px;}
+    .btn {display:inline-block; background:#ffcc00; color:#111; padding:15px 25px; text-decoration:none; border-radius:8px; font-weight:bold; margin-top:20px;}
+    .container {max-width:1000px; margin:auto; padding:30px 20px;}
+    .card {background:white; padding:25px; border-radius:12px; margin-bottom:20px; box-shadow:0 2px 8px rgba(0,0,0,0.08);}
+    h2 {color:#0a1f44;}
+    ul {line-height:1.8;}
+    .grid {display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:15px;}
+    footer {text-align:center; padding:25px; background:#0a1f44; color:white; margin-top:40px;}
+    .small {font-size:13px; color:#444;}
+    .price {font-size:26px; font-weight:bold; color:#0a1f44;}
+    .highlight {color:#0a1f44; font-weight:bold;}
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>2026 E-Commerce Legal Compliance Pack</h1>
+  <p>Privacy Policy + Terms + Refund + Cookies + Disclaimer (GDPR + CCPA + India DPDP Ready)</p>
+  <a class="btn" href="YOUR_PAYMENT_LINK_HERE" target="_blank">BUY NOW & DOWNLOAD</a>
+  <p style="margin-top:15px; font-size:14px;">Instant Digital Download • Editable Word + PDF + HTML Included</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>📌 Product Summary</h2>
+    <p>
+      This is a professional legal template bundle designed for ecommerce websites and digital product sellers.
+      It includes updated clauses for <span class="highlight">GDPR (EU)</span>, <span class="highlight">CCPA/CPRA (USA)</span>,
+      and <span class="highlight">India DPDP Act 2023</span>.
+    </p>
+    <p>
+      Perfect for online stores, SaaS tools, AI tool sellers, subscription businesses, and global digital product creators.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>✅ What You Get (Full Bundle)</h2>
+    <div class="grid">
+      <div>
+        <ul>
+          <li>Privacy Policy (GDPR + CCPA + DPDP)</li>
+          <li>Terms & Conditions (E-commerce ready)</li>
+          <li>Refund & Return Policy</li>
+          <li>Cookie Policy</li>
+          <li>Disclaimer</li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <li>Cookie Banner Text Pack (3 versions)</li>
+          <li>GDPR Compliance Checklist</li>
+          <li>India DPDP Compliance Checklist</li>
+          <li>DPA Mini Template</li>
+          <li>Quick Fill Setup Guide</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>🚀 Key Features (Why This Pack Sells)</h2>
+    <ul>
+      <li>100% Editable Word Templates (placeholders included)</li>
+      <li>PDF files included for professional use</li>
+      <li>HTML pages included (copy-paste directly into your website)</li>
+      <li>Includes GDPR + CCPA + India DPDP compliance language</li>
+      <li>Perfect for digital products + subscriptions + SaaS</li>
+      <li>Fast setup: publish all legal pages in under 10 minutes</li>
+      <li>Helps reduce compliance risk and builds customer trust</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>🌍 Best For</h2>
+    <ul>
+      <li>Shopify / WooCommerce / WordPress websites</li>
+      <li>Gumroad / Payhip / Ko-fi sellers</li>
+      <li>AI tools and SaaS products</li>
+      <li>Digital products (ebooks, templates, software, courses)</li>
+      <li>Global ecommerce stores (EU + USA + India customers)</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>📂 File Formats Included</h2>
+    <ul>
+      <li>Editable Word (.DOCX)</li>
+      <li>PDF (.PDF)</li>
+      <li>Website Pages (.HTML)</li>
+      <li>Text Instructions + Checklists</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>💰 Price</h2>
+    <p class="price">$39 (Limited Offer)</p>
+    <p>Includes complete premium bundle + all formats.</p>
+    <a class="btn" href="YOUR_PAYMENT_LINK_HERE" target="_blank">BUY NOW</a>
+  </div>
+
+  <div class="card">
+    <h2>⚡ How It Works</h2>
+    <ol>
+      <li>Buy the product using PayPal / Razorpay payment link.</li>
+      <li>You will receive the download link instantly (or via email).</li>
+      <li>Edit placeholders: [COMPANY NAME], [WEBSITE URL], [EMAIL].</li>
+      <li>Upload to your website and publish.</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>❓ FAQ</h2>
+    <p><b>Q: Is this lawyer-approved?</b><br>
+    A: This is a professional template pack. It is not legal advice. For high-risk industries, consult a lawyer.</p>
+
+    <p><b>Q: Can I use it for multiple websites?</b><br>
+    A: Yes, you can use it for your own business projects.</p>
+
+    <p><b>Q: Can I resell this pack?</b><br>
+    A: No. Reselling or redistribution is not allowed.</p>
+
+    <p><b>Q: How fast can I publish these policies?</b><br>
+    A: Usually within 10 minutes after editing placeholders.</p>
+  </div>
+
+  <div class="card">
+    <h2>📩 Support</h2>
+    <p>
+      For help, contact:<br>
+      <b>Email:</b> [YOUR SUPPORT EMAIL]<br>
+      <b>Business Name:</b> KVSIRai<br>
+      <b>Author:</b> Srinivasa Ramaiah
+    </p>
+  </div>
+
+  <p class="small">
+    Disclaimer: This product is a template pack and does not replace professional legal consultation.
+    Use at your own responsibility.
+  </p>
+
+</div>
+
+<footer>
+  <p>© 2026 KVSIRai | Author: Srinivasa Ramaiah</p>
+</footer>
+
+</body>
+</html>
